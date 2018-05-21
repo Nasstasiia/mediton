@@ -1,0 +1,325 @@
+@media only screen and (max-width: 1400px) {
+    .readings-desc {
+        background: #fff;
+        padding: 35px 10px;
+    }
+
+    .description-readings {
+        width: 97%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    header {
+        padding: 20px
+    }
+
+    .col-menu {
+        text-align: center;
+    }
+
+    .main-description, .description {
+        padding-left: 20px;
+    }
+
+    .menu-text {
+        min-width: 149px;
+    }
+
+    .prostam-wrapper {
+        background-position: -17% 0;
+    }
+
+    .transparent-first-prostam {
+        margin-bottom: -5%;
+    }
+
+    .prostam {
+        margin-left: 10px;
+    }
+
+    .transparent-prostam {
+        transform: none;
+        left: 0;
+        top: -12%;
+    }
+
+    .order-form {
+        margin-right: 5px;
+    }
+
+    .col-form {
+        width: 100%;
+        margin-right: 13px;
+    }
+
+    footer {
+        height: 170px;
+    }
+}
+
+@media only screen and (min-width: 1153px)and (max-width: 1200px) {
+    .prostam-wrapper {
+        background-position: -111% 0;
+    }
+
+    .prostam {
+        width: 513px;
+        height: 513px;
+    }
+
+    .description-readings {
+        padding-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .logo {
+        display: block;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .prostam-wrapper {
+        background-position: -12% -2%;
+    }
+
+    .nav {
+        float: none;
+        width: 763px;
+        margin: 0 auto;
+    }
+
+    .circle-border {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .transparent {
+        display: none;
+    }
+
+    .col-menu {
+        padding: 5px 20px;
+    }
+
+    .prostam-desc .section-content {
+        background: #fff;
+        padding: 20px 10px;
+    }
+
+    .main-content {
+        padding-bottom: 20px;
+    }
+
+    .main-description, .description {
+        width: 97%;
+        padding: 20px 10px;
+    }
+
+    .description {
+        width: 97%;
+        padding: 0;
+    }
+
+    .prostam, .mediton {
+        width: 220px;
+        height: 220px;
+        left: 50%;
+        margin-left: -100px;
+    }
+
+    .prostam {
+        margin-top: -345px;
+    }
+
+    .mediton {
+        margin-top: -218px;
+    }
+
+    .readings-list {
+        float: none;
+        width: 97%;
+        margin-left: 10px;
+        margin-top: 53px;
+    }
+
+    .title-readings h2 {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+
+    .readings {
+        height: auto;
+        margin-top: 82px;
+    }
+
+    .title-readings p {
+        padding-bottom: 18px;
+    }
+
+    .description-content p, .description-content li {
+        padding-top: 15px;
+    }
+
+    .order {
+        height: auto;
+        padding: 20px 10px;
+    }
+
+    .dataPerson {
+        border: 1px #8ca8f2 solid;
+    }
+
+    .testimonials {
+        padding: 65px 10px;
+    }
+
+    .readings-second .readings-list li {
+        font-size: 18px;
+    }
+
+    .readings-second {
+        padding: 0 10px 20px 10px;
+    }
+
+    .readings-second .readings-list {
+        margin-top: 120px
+    }
+
+    .readings .readings-list {
+        margin-top: 60px;
+    }
+
+    .order {
+        height: 561px;
+        padding: 20px 5px;
+    }
+
+    .order-form {
+        width: 45%;
+        float: right;
+        margin-right: 5px;
+    }
+
+    .col-form {
+        width: 48%;
+        margin-bottom: 10px;
+        margin-right: 9px;
+    }
+
+    .order-second .section-content {
+        height: 531px;
+    }
+
+    footer {
+        height: 250px;
+    }
+}
+
+@media only screen and (max-width: 992px) and (min-width: 834px) {
+    header .nav {
+        width: 97%;
+    }
+
+    .prostam-wrapper {
+        background-position: -40% 0;
+    }
+
+    .main-description {
+        padding-top: 105px;
+    }
+
+    .prostam, .mediton {
+        width: 240px;
+        height: 240px;
+        left: 72%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    header .custom, footer .nav {
+        width: 77%;
+    }
+
+    .col-menu {
+        min-width: 256px;
+        text-align: left;
+    }
+
+    .prostam-wrapper {
+        background: #fff;
+    }
+
+    .transparent {
+        display: none;
+    }
+
+    .advantages {
+        padding-top: 20px;
+    }
+
+    .col-advantages {
+        padding: 20px;
+    }
+
+    .prostam, .mediton {
+        width: 200px;
+        height: 200px;
+    }
+
+    .prostam {
+        margin-top: -322px;
+    }
+
+    .readings .readings-list {
+        padding: 107px 0 10px 0;
+    }
+
+    .readings {
+        padding: 0;
+    }
+
+    .order {
+        height: auto;
+    }
+
+    .col-form {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .order-desc, .order-form {
+        width: 97%;
+        float: none;
+        margin: 0 auto;
+    }
+
+    .order-form textarea {
+        height: 100px;
+    }
+
+    .readings-second .readings-list {
+        margin-top: 110px;
+    }
+
+    .order-second .section-content {
+        background: #fff;
+        height: auto;
+    }
+
+    .order-second {
+        padding: 20px 10px;
+    }
+
+    footer {
+        padding: 20px 9px;
+        height: auto;
+    }
+
+    footer .nav {
+        width: 79%;
+        float: none;
+    }
+
+}
