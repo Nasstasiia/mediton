@@ -70,7 +70,7 @@ header .fa-users {
     padding: 0 4px;
 }
 
-.col-menu a:hover, .readmore:hover {
+.col-menu:hover, .readmore:hover {
     background: #eaf4ff;
     border-radius: 10px;
 }
@@ -547,6 +547,21 @@ input:focus, textarea:focus {
     background: -webkit-linear-gradient(62deg, rgb(124, 144, 242) 30%, rgb(225, 178, 207) 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+#toTop {
+ text-align:center;
+ padding:5px;
+ position:fixed;
+ bottom: 32px;
+ right:20px;
+ cursor:pointer;
+ z-index: 1000;
+}
+
+#toTop i {
+ font-size: 56px;
+ color: #ff5555;
 }
 
 footer {
